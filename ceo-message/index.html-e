@@ -15,7 +15,7 @@
 	</script>
 
 <script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<!--<script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>-->
 
 <title>CEO Message - Mosaic</title>
 
@@ -33,7 +33,7 @@
 
 <link rel='dns-prefetch' href='../index.html' />
 <link rel='dns-prefetch' href='https://s.w.org/' />
-<link rel='stylesheet' id='main-styles-css'  href='../wp-content/themes/mosaic/assets/dist/styles.min.css%3Fupdate=1553625354.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='../wp-content/themes/mosaic/assets/dist/styles.min.css%3Fupdate=1554310165.css' type='text/css' media='all' />
 <link rel='https://api.w.org/' href='../wp-json/index.html' />
 
 </head>
@@ -66,9 +66,9 @@
 <li class=' menu-item menu-item-has-children'><a class="main-menu__top-item" href="../performance-highlights/index.html">Performance Highlights</a>
 <ul class="sub-menu">
 <li class=' menu-item'><a class="main-menu__top-item" href="../performance-highlights/index.html#2018-highlights">2018 Highlights</a></li>
+<li class=' menu-item'><a class="main-menu__top-item" href="../performance-highlights/index.html#sustainability-targets">Sustainability Targets</a></li>
 </ul>
 </li>
-<li class=' menu-item'><a class="main-menu__top-item" href="../performance-highlights/index.html#sustainability-targets">Sustainability Targets</a></li>
 <li class=' menu-item menu-item-has-children'><a class="main-menu__top-item" href="../shareholder-information/index.html">Shareholder Information</a>
 <ul class="sub-menu">
 <li class=' menu-item'><a class="main-menu__top-item" href="../shareholder-information/index.html#contacts">Contacts</a></li>
@@ -100,8 +100,8 @@
         
           
 				                                      <section class="mod mod--full_screen_splash blue">
-	<div class="bg bg--mobile" style="background-image: url(../wp-content/uploads/2019/03/ceotest4-mobile.jpg);"></div>
-	<div class="bg" style="background-image: url(../wp-content/uploads/2019/03/ceotest3.jpg);"></div>
+	<div class="bg bg--mobile" style="background-image: url(../wp-content/uploads/2019/03/mosaic-ceo-joc-orourke-mobile.jpg);"></div>
+	<div class="bg" style="background-image: url(../wp-content/uploads/2019/04/mosaic-ceo-joc-orourke-florida-office-new.jpg);"></div>
 
 	<div class="container container--large">
 		<header class="mod--full_screen_splash__header">
@@ -176,27 +176,18 @@ MESSAGE</span></p>
           
 				                                      <section class="mod mod--wysiwyg mod--wysiwyg--white">
 	<div class="container wysiwyg">
-		<p>While the company was generating strong financial and operational results, we also delivered value to our full range of stakeholders. Our external recognition—including our fourth consecutive year on the CDP Climate A-List and our eighth consecutive year on the CR-100 list of most responsible companies—validates our commitment to responsible operation.</p>
+		<p>While the company was generating strong financial and operational results, we also delivered value to our full range of stakeholders. Our external recognition—including our first year on FTSE4Good Index and our ninth consecutive year on the Corporate Responsibility Magazine’s 100 Best Corporate Citizens list—validates our commitment to responsible operation.</p>
 <p>We constantly push forward in our approach to corporate responsibility, whether we’re adapting to new standards of sustainability reporting, improving our operating performance, seeking new ways to contribute to the vitality of our communities, or helping to educate our customers and farmers on responsible use of fertilizers. In fact, we plan to drive further evolution in 2019 by defining our commitments, impacts and targets under a broad definition of environmental, social and governance performance. You can expect to learn more about our accomplishments in this regard a year from now.</p>
 <p>At Mosaic, we mine, manufacture, sell and distribute fertilizer. I realize that on first glance our daily work may seem uninspiring. But we are impelled by a noble and critical social mission: We help the world grow the food it needs. Fertilizer accounts for half of all crop yields around the world, and Mosaic is a key global supplier of potash and phosphate fertilizers. We understand that the world’s farmers need Mosaic to thrive so that they can meet their responsibility of feeding an ever-hungrier world.</p>
 <p>We have a vision to meet that promising challenge; we are demonstrating the high standard of performance required to achieve our vision; and we are delivering strong results.</p>
 <p>Thank you, to all our stakeholders, for your ongoing partnership and support. All of us at Mosaic look forward to many abundant years ahead.</p>
 <p>Sincerely,</p>
-<p><img class="size-full wp-image-272 alignnone" src="../wp-content/uploads/2019/03/JocORourke_Signature.png" alt="" width="178" height="87" /></p>
+<p><img class="imgalignleft alignnone size-full wp-image-783" src="../wp-content/uploads/2019/03/joc-orourke-signature.png" alt="" width="178" height="87" /></p>
 <p>James “Joc” C. O’Rourke<br />
 President and Chief Executive Officer<br />
 April 2019</p>
-<p><img class="size-full wp-image-678 alignleft" src="../wp-content/uploads/2019/03/10K-Web-Thumbnail.png" alt="" width="170" height="275" /></p>
+<p><a href="../wp-content/uploads/2019/03/mosaic-2018-annual-report.pdf" target="_blank" rel="noopener"><img class="imgalignleft alignnone wp-image-678 size-full" src="../wp-content/uploads/2019/03/10k-web-download-pdf.png" alt="" width="170" height="275" /></a></p>
 
-	</div>
-</section>
-                
-          
-        
-          
-				                                      <section class="mod mod--wysiwyg mod--wysiwyg--white">
-	<div class="container wysiwyg">
-		
 	</div>
 </section>
                 
@@ -323,12 +314,15 @@ April 2019</p>
 			</a>
 		</li>
 	</ul>
-	<p>
+	<p class="hide-on-mobile">
 		&copy; 2019 <a href="http://mosaicco.com/" target="_blank">The Mosaic Company</a> | <a href="http://www.mosaicco.com/privacy_policy.htm">Privacy Policy</a>
 	</p>
-	<a href="index.html#"  onclick="window.print();return false;">
-		<img src="../wp-content/themes/mosaic/assets/images/print-icon.png" width="27" height="25" alt="Print" class="footer__print-icon">
-	</a>
+    <p class="show-on-mobile">
+        &copy; 2019 <a href="http://mosaicco.com/" target="_blank">The Mosaic Company</a> | <a href="http://www.mosaicco.com/mobile/privacy_policy.htm">Privacy Policy</a>
+    </p>
+<!--	<a href="#"  onclick="window.print();return false;">-->
+<!--		<img src="/wp-content/themes/mosaic/assets/images/print-icon.png" width="27" height="25" alt="Print" class="footer__print-icon">-->
+<!--	</a>-->
 </footer>
 
 <script type='text/javascript'>
