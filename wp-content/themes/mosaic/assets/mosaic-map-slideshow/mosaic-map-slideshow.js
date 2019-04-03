@@ -72,7 +72,7 @@
 		$slider.append(slideHTML);
 	});
 
-	$('head').append('<link rel="stylesheet" type="text/css" href="'+folderPath+'/mosaic-map-slideshow.min.css" />');
+	$('head').append('<link rel="stylesheet" type="text/css" href="'+folderPath+'mosaic-map-slideshow.min.css" />');
 	$('<style>' + slidesCSS + '</style>').insertBefore("#mosaic-map-slideshow");
 
 	$slider.slick({
